@@ -60,7 +60,10 @@ dependencies {
 
     implementation(libs.androidx.navigation3.runtime)
     implementation(libs.androidx.navigation3.ui)
+
     debugImplementation(libs.androidx.ui.tooling)
+    implementation(libs.androidx.ui.tooling.preview)
+
     implementation(libs.coil.compose)
 
     implementation(libs.accompanist.systemuicontroller)
