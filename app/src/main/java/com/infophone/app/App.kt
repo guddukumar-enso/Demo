@@ -1,3 +1,4 @@
+/*
 package com.infophone.app
 
 import android.app.Application
@@ -7,4 +8,4 @@ import dagger.hilt.android.HiltAndroidApp
 @HiltAndroidApp
 class App: Application() {
     // Hilt code generation starts here
-}
+}*/
