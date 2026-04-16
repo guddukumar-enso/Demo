@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <!-- common or single  texts -->
+    <string name="email">Email</string>
+    <string name="next">Next</string>
+    <string name="get_started">Get Started</string>
+    <string name="send_otp">Send OTP</string>
+    <string name="and">and</string>
+
+    <string name="otp_resend">Resend OTP</string>
+    <string name="verify">Verify</string>
+    <string name="name">Name</string>
+    <string name="about">About</string>
+    <string name="create">Create</string>
+    <string name="off">Off</string>
+    <string name="edit">Edit</string>
+    <string name="camara">Camara</string>
+    <string name="gallery">Gallery</string>
+    <string name="remove_profile">Remove profile</string>
+
+
+    <!-- Splash  texts -->
+    <string name="app_tagline">The smarter way to chat, call, and stay\nconnected anytime.</string>
+    <string name="app_copyright">By Enso Webworks Private Limited</string>
+
+
+    <!-- Onboarding 1 texts -->
+    <string name="onboarding1_from">From\u00A0</string>
+    <string name="onboarding1_texts">Texts\u00A0</string>
+    <string name="onboarding1_to">to</string>
+    <string name="onboarding1_calls_dot">\nCalls.</string>
+
+    <string name="onboarding1_description">Chat, call, or video anytime — stay\nclose, wherever you are.</string>
+
+    <!-- Onboarding 2 texts -->
+    <string name="onboarding2_your">Your\u00A0</string>
+    <string name="onboarding2_world">World</string>
+    <string name="onboarding2_comma_your">,\nYour\u00A0</string>
+    <string name="onboarding2_privacy_dot">Privacy.</string>
+
+    <string name="onboarding2_description">End-to-end encrypted. No\nsnooping, no stress.</string>
+
+    <!-- Onboarding 3 texts -->
+    <string name="onboarding3_share">Share\u00A0</string>
+    <string name="onboarding3_photos">Photos</string>
+    <string name="onboarding3_dot_send">.\nSend\u00A0</string>
+    <string name="onboarding3_videos_dot">Videos.</string>
+
+    <string name="onboarding3_description">Bring conversations to life — share\nimages, videos, and your location\nseamlessly with friends.</string>
+
+    <!-- Login texts -->
+    <string name="login_get_started_title">Seamless\ncommunication\nstarts here.</string>
+    <string name="login_subtitle">Log in and start chatting or calling instantly.\nBecause talking should be this simple.</string>
+    <string name="login_enter_mobile_hint">Enter your mobile number</string>
+    <string name="login_terms_intro">By continuing you agree to the\u00A0</string>
+    <string name="login_terms_conditions">terms &amp; conditions\n</string>
+    <string name="login_privacy_policy">\u00A0privacy policy</string>
+
+    <!-- OTP texts -->
+    <string name="otp_verification_title">OTP Verification</string>
+    <string name="otp_verification_subtitle">Check your inbox to see the verification code</string>
+    <string name="otp_invalid_error">Invalid OTP, please enter a valid OTP</string>
+
+
+    <!-- Basic profile texts -->
+    <string name="profile_personal_info_title">Personal Information</string>
+    <string name="profile_personal_info_subtitle">Fill in your personal data to complete the registration process</string>
+    <string name="profile_urgent_note">If anything urgent, please sort it yourself.</string>
+
+    <!-- Profile back texts -->
+    <string name="profile_exit_setup_title">Exit account setup?</string>
+    <string name="profile_exit_setup_button">Exit setup</string>
+    <string name="profile_continue_setup_button">Continue setup</string>
+    <string name="profile_exit_setup_warning">Account setup is in progress.\nIf you exit now, your new account will not be added.</string>
+
+    <!-- Profile recovery texts -->
+    <string name="profile_add_email_title">Add your email</string>
+    <string name="profile_add_email_subtitle">Add your email to complete the registration process.</string>
+
+    <!-- Profile success texts -->
+    <string name="profile_success_message">Your account successfully created!</string>
+    <string name="profile_success_subtitle">Let’s start your journey</string>
+
+
+</resources>

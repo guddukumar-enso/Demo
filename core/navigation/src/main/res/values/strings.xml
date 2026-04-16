@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="who_can_see_last_seen">Who can see my Last Seen</string>
+    <string name="profile_photo">Profile photo</string>
+    <string name="who_can_see_profile_photo">Who can see my profile photo</string>
+    <string name="last_seen_online">Last seen &amp; online</string>
+
+</resources>

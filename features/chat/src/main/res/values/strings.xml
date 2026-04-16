@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="messages_and_calls_are_end_to_end_encrypted">Messages and calls are end-to-end encrypted. \n</string>
+    <string name="only_people_in_this_chat_can_read_listen_or_share_them">Only people in this chat can read, listen or share them. \n</string>
+    <string name="click_to_learn_more">Click to learn more.</string>
+    <string name="start_a_conversation">Start a Conversation \n</string>
+    <string name="send_a_message_to_get_started">Send a message to get started!</string>
+</resources>

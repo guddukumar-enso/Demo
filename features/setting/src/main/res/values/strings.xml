@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="settings">Settings</string>
+    <string name="urgent_note">If anything urgent, please sort it yourself.</string>
+    <string name="user_name">Purvi Jain</string>
+    <string name="marked_important">Marked as important</string>
+
+    <string name="linked_devices">Linked devices</string>
+    <string name="account">Account</string>
+    <string name="privacy">Privacy</string>
+    <string name="chats">Chats</string>
+    <string name="notification">Notification</string>
+    <string name="notifications">Notifications</string>
+    <string name="storage_data">Storage and data</string>
+    <string name="faq">FAQ</string>
+    <string name="invite_friend">Invite a friend</string>
+
+    <string name="edit">Edit</string>
+    <string name="profile">Profile</string>
+    <string name="name">Name</string>
+    <string name="about">About</string>
+    <string name="phone_number">Phone number</string>
+    <string name="phone_example">+91 98765 12345</string>
+
+    <string name="links">Links</string>
+    <string name="add_links">Add links</string>
+    <string name="save">Save</string>
+    <string name="add_link_info">
+    Adding link to your InfoPhone profile helps your contacts visit your InfoProfile.
+</string>
+
+    <string name="info_profile">InfoProfile</string>
+    <string name="change_phone_number">Change phone number</string>
+    <string name="next">Next</string>
+
+    <string name="change_phone_info">
+    Use Change Phone Number to migrate your account info, groups and\nsettings from your current phone number to a new phone number. You\ncan’t undo this change.
+</string>
+
+    <string name="confirm_phone_info">
+    To proceed, confirm that your new phone number can receive SMS or\ncalls and help tap Next to verify that number.
+</string>
+
+    <string name="delete_my_account">Delete my account</string>
+    <string name="delete_account_info">Deleting your account will:</string>
+    <string name="delete_account_item1">Delete your account info and profile photo</string>
+    <string name="delete_account_item2">Delete you from all the groups</string>
+    <string name="delete_account_item3">Delete your message history on this phone and your iCloud backup</string>
+
+    <string name="enter_phone_number">Enter your phone number:</string>
+    <string name="country">Country</string>
+    <string name="phone">Phone</string>
+    <string name="india">India</string>
+    <string name="country_code_india">+91</string>
+    <string name="your_phone_number">Your phone number</string>
+    <string name="change_phone_instead">Change phone number instead</string>
+
+    <string name="message_notifications">Messages</string>
+    <string name="mute_durations">Mute durations</string>
+    <string name="mute_notifications">Mute Notifications</string>
+    <string name="alert_tone">Alert tone</string>
+    <string name="none">No</string>
+    <string name="chord">Chord</string>
+
+    <string name="mute_duration_info">
+    Other members will not see that you muted this chat, and you\nwill still be notified if you are mentioned.
+</string>
+
+    <string name="eight_hours">8 hours</string>
+    <string name="one_week">1 week</string>
+    <string name="always">Always</string>
+
+    <string name="default_chat_theme">Default chat theme</string>
+    <string name="auto_save_media">
+    Automatically save photos and videos you receive to Photos
+</string>
+
+    <string name="chat_backup">Chat backup</string>
+    <string name="export_chat">Export chat</string>
+    <string name="off">Off</string>
+
+    <string name="keep_chats_archived">Keep chats archived</string>
+    <string name="archived_chat_info">
+    Archived chats will remain archived when you receive a new message.
+</string>
+
+    <string name="archive_all_chats">Archive all chats</string>
+    <string name="clear_all_chats">Clear all chats</string>
+    <string name="delete_all_chats">Delete all chats</string>
+
+    <string name="appearance">Appearance</string>
+    <string name="dark">Dark</string>
+    <string name="light">Light</string>
+
+    <string name="message_notification">Message notification</string>
+    <string name="show_notifications">Show notifications</string>
+    <string name="sound">Sound</string>
+    <string name="note">Note</string>
+    <string name="reaction_notifications">Reaction notifications</string>
+
+    <string name="group_notification">Group notification</string>
+    <string name="status_notification">Status notification</string>
+
+    <string name="reminders">Reminders</string>
+    <string name="reminder_info">
+    Get occasional reminders about messages, calls or status updates you haven’t seen.
+</string>
+
+    <string name="in_app_notifications">In-app notifications</string>
+    <string name="banner_sound_vibrate">Banners, Sounds, Vibrate</string>
+
+    <string name="show_preview">Show preview</string>
+    <string name="preview_message_info">
+    Preview message text inside new message notifications.
+</string>
+
+    <string name="reset_notification_settings">Reset notification settings</string>
+    <string name="reset_notification_info">
+    Reset all notification settings, including custom notification settings for your chats.
+</string>
+
+
+    <string name="security_notifications">Security notifications</string>
+    <string name="two_step_verification">Two-step verification</string>
+    <string name="email_address">Email address</string>
+    <string name="profile_photo">Profile photo</string>
+    <string name="last_seen_online">Last seen &amp; online</string>
+    <string name="status">Status</string>
+    <string name="stories">Stories</string>
+    <string name="disappearing_messages">Disappearing messages</string>
+    <string name="read_receipts">Read receipts</string>
+
+    <string name="read_receipts_info">
+    If you turn off read receipts, you won’t be\nable to see read receipts from other people.
+</string>
+
+    <string name="app_lock">App lock</string>
+    <string name="app_lock_info">
+    Require Face ID, fingerprint, or PIN to unlock.
+</string>
+
+    <string name="who_can_see_last_seen">Who can see my Last Seen</string>
+    <string name="everyone">Everyone</string>
+    <string name="my_contacts">My contacts</string>
+    <string name="my_contacts_except">My contacts except...</string>
+    <string name="nobody">Nobody</string>
+
+    <string name="who_can_see_online">Who can see when I’m Online</string>
+    <string name="same_as_last_seen">Same as last seen</string>
+
+    <string name="who_can_see_profile_photo">Who can see my profile photo</string>
+
+
+</resources>
